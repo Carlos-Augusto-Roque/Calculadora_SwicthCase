@@ -1,0 +1,13 @@
+C:\Users\PC - CARLOS\Desktop\DEV\Calculadora_SwicthCase\bin\Debug\netcoreapp3.1\Calculadora_SwicthCase.exe
+C:\Users\PC - CARLOS\Desktop\DEV\Calculadora_SwicthCase\bin\Debug\netcoreapp3.1\Calculadora_SwicthCase.deps.json
+C:\Users\PC - CARLOS\Desktop\DEV\Calculadora_SwicthCase\bin\Debug\netcoreapp3.1\Calculadora_SwicthCase.runtimeconfig.json
+C:\Users\PC - CARLOS\Desktop\DEV\Calculadora_SwicthCase\bin\Debug\netcoreapp3.1\Calculadora_SwicthCase.runtimeconfig.dev.json
+C:\Users\PC - CARLOS\Desktop\DEV\Calculadora_SwicthCase\bin\Debug\netcoreapp3.1\Calculadora_SwicthCase.dll
+C:\Users\PC - CARLOS\Desktop\DEV\Calculadora_SwicthCase\bin\Debug\netcoreapp3.1\Calculadora_SwicthCase.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\Calculadora_SwicthCase\obj\Debug\netcoreapp3.1\Calculadora_SwicthCase.csprojAssemblyReference.cache
+C:\Users\PC - CARLOS\Desktop\DEV\Calculadora_SwicthCase\obj\Debug\netcoreapp3.1\Calculadora_SwicthCase.AssemblyInfoInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\Calculadora_SwicthCase\obj\Debug\netcoreapp3.1\Calculadora_SwicthCase.AssemblyInfo.cs
+C:\Users\PC - CARLOS\Desktop\DEV\Calculadora_SwicthCase\obj\Debug\netcoreapp3.1\Calculadora_SwicthCase.csproj.CoreCompileInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\Calculadora_SwicthCase\obj\Debug\netcoreapp3.1\Calculadora_SwicthCase.dll
+C:\Users\PC - CARLOS\Desktop\DEV\Calculadora_SwicthCase\obj\Debug\netcoreapp3.1\Calculadora_SwicthCase.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\Calculadora_SwicthCase\obj\Debug\netcoreapp3.1\Calculadora_SwicthCase.genruntimeconfig.cache
